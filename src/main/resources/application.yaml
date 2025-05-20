@@ -1,0 +1,2 @@
+functionmap:
+  map: { com.example.demo.ControllerB.test: http://127.0.0.1:18501 }
